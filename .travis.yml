@@ -25,5 +25,5 @@ install:
 
 script:
  - raco test --drdr sbpv/
- - raco test --drdr examples/
+ - raco test --drdr -Q examples/
  - raco setup
