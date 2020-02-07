@@ -24,5 +24,6 @@ install:
  - raco pkg install --auto sbpv/
 
 script:
- - raco test --package sbpv
+ - raco test sbpv/
+ - raco test examples/
  - raco setup
