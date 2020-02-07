@@ -1,7 +1,15 @@
 #lang info
 
 (define test-omit-paths
-  '("advent-2018/"
+  '("advent-2018/04/"
+    "advent-2018/05/"
+    "advent-2018/06/"
+    "advent-2018/07/"
+    "advent-2018/08/"
+    "advent-2018/09/"
+    "advent-2018/10/"
+    "advent-2018/11/"
+    "advent-2018/template/"
     "advent-2019/01/"
     "advent-2019/02/"
     "advent-2019/03/"
